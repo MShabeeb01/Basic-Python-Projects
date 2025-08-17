@@ -4,6 +4,7 @@ This repository contains 8 beginner-friendly Python projects to help you practic
 Each project is small, fun, and practical — making it easier to understand how Python concepts work in real-life use cases.
 
 These projects will help you build a strong foundation by covering:
+
 ✔️ User input & output
 
 ✔️ Variables & data types
