@@ -1,4 +1,5 @@
 📂 Projects Overview 
+
 This repository contains 8 beginner-friendly Python projects to help you practice and strengthen your Python skills.
 Each project is small, fun, and practical — making it easier to understand how Python concepts work in real-life use cases.
 
