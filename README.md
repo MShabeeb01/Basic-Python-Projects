@@ -5,12 +5,19 @@ Each project is small, fun, and practical — making it easier to understand how
 
 These projects will help you build a strong foundation by covering:
 ✔️ User input & output
+
 ✔️ Variables & data types
+
 ✔️ Conditions & loops
+
 ✔️ Functions & parameters
+
 ✔️ Lists & operations
-✔️ Modules (datetime, time)
+
+✔️ Modules (datetime,math,random,etc...)
+
 ✔️ Problem-solving with formulas
+
 
 1️⃣ Welcome Message Generator
 
